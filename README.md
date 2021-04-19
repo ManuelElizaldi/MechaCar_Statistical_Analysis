@@ -43,4 +43,5 @@ We used T-tests to determine the significance of the analysis performed on the l
 
 ## MechaCar vs Competition
 
-According to (www.drive-safely.net)[www.drive-safely.net]
+According to www.drive-safely.net one of the most important things for drivers when buying a car is safety and other source, www.protectiveagency.com, concluded that cost and financing are other important factors. With this information we can perform a study where we compare the prices of the competitors to our prices. Then for the safety part of the study we need to set a required safety rating, do various tests where we compare different models of prototypes, gather the information in a data set and determine what prototypes passed the test. After this we would need to perform a statistical t-test where we state a hypotheis and calculate if our dataset is correct and can predict the safety of our cars. One example of a null hypothesis for the safety test may be:
+- The prototypes of lot 1 meet the required safety rating. 
