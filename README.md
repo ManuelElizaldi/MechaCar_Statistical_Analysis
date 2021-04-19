@@ -18,14 +18,14 @@ In this analysis we include the following:
 ## Analysis
 
 ### Linear Regression
-![]()
-![]()
+![](/resources/coefficients.png)
+![](/resources/linearRegression.png)
 ### Summary Statistic on the PSI of the Suspension Coils
 
 ### T-tests 
 
 
 
-![]()
-![]()
-![]()
+![](/resources/lots_summary.png)
+![](/resources/total_summary.png)
+
