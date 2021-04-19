@@ -36,9 +36,9 @@ Do the design specifications for the MechaCar suspension coils dictate that the 
 ### T-tests
 We used T-tests to determine the significance of the analysis performed on the lots. The results were: 
 - In the first t-test we have a p-value of 0.060 which is slightly bigger than the significance level of 0.05. We could determine that the distribution normal.
-- The p-value for Lot 1 is 1
--
--
+- The p-value for Lot 1 is 1, so the distribution is normal.
+- The p-value for lot 2 is 0.06, so the distribution is normal. 
+- The p-va
 ![](/resources/t_tests.png)
 
 
