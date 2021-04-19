@@ -36,7 +36,7 @@ Do the design specifications for the MechaCar suspension coils dictate that the 
 ### T-tests 
 
 
-
+![](/resources/t_tests.png)
 
 
 
