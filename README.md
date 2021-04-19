@@ -16,16 +16,27 @@ In this analysis we include the following:
 - Datasets can be found in the Rstudio folder. 
 
 ## Analysis
-
 ### Linear Regression
-![]()
-![]()
+1.According to the following tables we can see that the variables that provide the most non-random amount of variance are the Spoiler Angle, Vehicle Weight and the AWD. 
+
+2.The slope of the model is not zero because p-value is 5.35x10^-11. We know this because the standard is 0.05 and the value that we found is considerably lower. Therefore we can safely conclude that the response variables are correlated to the predictor variable. 
+
+3.Does this linear model predict MPG of MechaCar Prototypes? Like in any model, there is always room for improvement and there is more statistical test that could make this analysis more robust. Nonetheless we can determine that this model is strong but it could be better. We have a value of R-squared of 0.71. There might be external or internal factors that could affect the value of the R-squared. 
+![](/resources/coefficients.png)
+![](/resources/linearRegression.png)
+
 ### Summary Statistic on the PSI of the Suspension Coils
+Do the design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually?
+
+- Lots 1 and 2 meet the required standards.
+- Lot 3 does not meet the required specifications because it's variance has a value of 170.28
+![](/resources/lots_summary.png)
+![](/resources/total_summary.png)
 
 ### T-tests 
 
 
+![](/resources/t_tests.png)
 
-![]()
-![]()
-![]()
+
+
