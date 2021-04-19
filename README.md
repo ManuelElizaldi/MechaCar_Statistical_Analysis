@@ -41,5 +41,6 @@ We used T-tests to determine the significance of the analysis performed on the l
 - The p-value for lot 3 is 0.04, lower than our significance level of 0.05. Therefore we can determine that the distribution is not normal.
 ![](/resources/t_tests.png)
 
+## MechaCar vs Competition
 
-
+According to (www.drive-safely.net)[www.drive-safely.net]
